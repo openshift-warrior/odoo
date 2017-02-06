@@ -1,5 +1,7 @@
 # OpenShift OpenERP quickstart
 
+[![DEPLOY ON OpenShift](http://launch-shifter.rhcloud.com/launch/DEPLOY ON.svg)](https://openshift.redhat.com/app/console/application_type/custom?&cartridges[]=python-2.7&cartridges[]=postgresql-8.4&initial_git_url=https://github.com/openshift-warrior/odoo.git&name=Odoo)
+
 This quickstart contains an OpenERP installation ready to run on OpenShift.
 
 ## Create your app
